@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Stellasphere
-//
-//  Created by Programmer on 3/25/26.
-//
 
 import UIKit
 
